@@ -1,1 +1,1 @@
-# NLP-News-Classification-with-gated-Neural-Nets
+#News-Classification-with-Gated-Neural-Nets
